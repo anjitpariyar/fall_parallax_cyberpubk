@@ -4,4 +4,4 @@
 
 This website showcases a stunning parallax effect created by Me. It features a cyberpunk vibe with a girl falling down with an umbrella.
 
-To view the live demo, [click here](https://www.example.com).
+To view the live demo, [click here](https://anjitpariyar.github.io/fall_parallax_cyberpubk/).
